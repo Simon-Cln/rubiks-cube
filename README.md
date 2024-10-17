@@ -35,3 +35,7 @@ Les mouvements sont affichés dans le coin supérieur droit pour une meilleure v
 Ajouter une visualisation en 3D pour rendre le cube plus réaliste.
 
 Améliorer l'algorithme de résolution pour utiliser des méthodes plus efficaces.
+
+
+![Démonstration du Rubik's Cube](./demo.gif)
+
