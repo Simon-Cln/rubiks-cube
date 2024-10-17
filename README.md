@@ -1,4 +1,4 @@
-Simulateur de Rubik's Cube
+#Simulateur de Rubik's Cube
 
 Ce projet est un simulateur de Rubik's Cube développé en Python avec Tkinter. Le programme offre une visualisation simple en 2D du cube et permet aux utilisateurs de mélanger et de résoudre le cube de manière interactive.
 
